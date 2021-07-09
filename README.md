@@ -4,6 +4,8 @@
   <img src="https://github.com/javimenba/javimenba/blob/759c9b44dd814fd1d183ff5edd6b9365cc466864/111.PNG" width="150%" title="Intro Card" alt="Intro Card">
 </p>
 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_javicioso) 
+
 ###  Currently working on
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
