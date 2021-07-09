@@ -8,7 +8,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.kicad.org/"><img src="https://github.com/javimenba/javimenba/blob/6a710b661385d355deb82754eb8e7616bcd264fa/icon-kicad.png" width="40px"/></a>
+<a src="https://www.kicad.org/"><img src="https://github.com/javimenba/javimenba/blob/1ad1a8f94dd24aa08929ed1a638dec51a480c4fe/iconkicad.png" width="40px"/></a>
 
 
 ### Other Languages I know
