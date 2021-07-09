@@ -1,6 +1,9 @@
 ### Hi I'm Javier  <img src="https://github.com/javimenba/javimenba/blob/fca886f478f54ef48c1d76e1ad47b57ba8b4c3a9/Hi.gif" width="30px">
+---
+<p align="center">
+  <img src="https://github.com/javimenba/javimenba/blob/759c9b44dd814fd1d183ff5edd6b9365cc466864/111.PNG" width="150%" title="Intro Card" alt="Intro Card">
+</p>
 
-<img src="https://github.com/javimenba/javimenba/blob/fca886f478f54ef48c1d76e1ad47b57ba8b4c3a9/Hi.gif" width="30px">
 ###  Currently working on
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -19,7 +22,7 @@
 <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/mac-os--v2.png"/>
 
-### Designed Circuit
+### Design Circuit
 <p >
 <img src="https://github.com/javimenba/javimenba/blob/2b156fcfd332427a15ff0644ddcabfb7035ce6a4/github.gif" width="300px">
 </p>
