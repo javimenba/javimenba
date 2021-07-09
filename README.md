@@ -1,4 +1,4 @@
-### Hi I'm Javier 👋
+### Hi I'm Javier  <img src="https://github.com/javimenba/javimenba/blob/fca886f478f54ef48c1d76e1ad47b57ba8b4c3a9/Hi.gif" width="30px">
 <p align="center">
   <img src="https://github.com/javimenba/javimenba/blob/f9460dce7a0b6e481692b0bcdafa0f6bcf69cabc/214791803_515375759745263_4397439575963977968_n.png" width="30%" title="Intro Card" alt="Intro Card">
 </p>
