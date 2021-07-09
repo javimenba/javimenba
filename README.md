@@ -8,7 +8,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-
+<a src="https://www.kicad.org/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 
 
 ### Other Languages I know
