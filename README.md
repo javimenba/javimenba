@@ -20,7 +20,7 @@
 
 ### Designed Circuit
 <p >
-<img src="https://github.com/javimenba/javimenba/blob/732415c5e62aea7032c7c74819880ff2561c74aa/github.gif" width="300px">
+<img src="https://github.com/javimenba/javimenba/blob/2b156fcfd332427a15ff0644ddcabfb7035ce6a4/github.gif" width="300px">
 </p>
 ---
 
