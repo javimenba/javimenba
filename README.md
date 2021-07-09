@@ -1,7 +1,5 @@
 ### Hi I'm Javier  <img src="https://github.com/javimenba/javimenba/blob/fca886f478f54ef48c1d76e1ad47b57ba8b4c3a9/Hi.gif" width="30px">
-<p align="center">
-  <img src="https://github.com/javimenba/javimenba/blob/f9460dce7a0b6e481692b0bcdafa0f6bcf69cabc/214791803_515375759745263_4397439575963977968_n.png" width="30%" title="Intro Card" alt="Intro Card">
-</p>
+
 
 ###  Currently working on
 
@@ -19,6 +17,11 @@
 
 ### Operating systems I know
 <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
+
+### Designed Circuit
+<p >
+<img src="https://github.com/javimenba/javimenba/blob/732415c5e62aea7032c7c74819880ff2561c74aa/github.gif" width="300px">
+</p>
 ---
 
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
