@@ -15,7 +15,7 @@
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ### Operating systems I know
-
+<img src="https://github.com/javimenba/javimenba/blob/6d1610678faf0383775ec8040a8a92fdea35e359/icons8-linux.gif" width="90px">
 ---
 
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
