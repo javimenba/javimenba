@@ -29,8 +29,8 @@
 <img src="https://github.com/javimenba/javimenba/blob/2b156fcfd332427a15ff0644ddcabfb7035ce6a4/github.gif" width="300px">
 </p>
 <p align="center">
-<img src="https://github.com/javimenba/JAPIC/blob/deb5dc380d62869a034a66ee6b83c6d23909ef02/.Img/5.PNG" width="25%">
-<img src="https://github.com/javimenba/JAPIC/blob/deb5dc380d62869a034a66ee6b83c6d23909ef02/.Img/1.PNG" width="25%">
+<img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/5.PNG" width="25%">
+<img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/1.PNG" width="25%">
 <img src="https://github.com/javimenba/JAPIC/blob/deb5dc380d62869a034a66ee6b83c6d23909ef02/.Img/2.PNG" width="23%">
 </p>
 <p align="center"> 
