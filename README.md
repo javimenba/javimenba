@@ -30,8 +30,8 @@
 </p>
 <p align="center">
 <img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/5.PNG" width="25%">
-<img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/1.PNG" width="25%">
-<img src="https://github.com/javimenba/javimenba/blob/56a039cc9576b4d4a9fca0370fbb013f1ecbe254/4.PNG" width="23%">
+<img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/1.PNG" width="29%">
+<img src="https://github.com/javimenba/javimenba/blob/56a039cc9576b4d4a9fca0370fbb013f1ecbe254/4.PNG" width="22%">
 </p>
 <p align="center"> 
 <img src="https://github.com/javimenba/javimenba/blob/0869f912c84db016ea7b039b49819d8124dc6593/14.PNG" width="20%"> 
