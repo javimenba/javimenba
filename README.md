@@ -35,17 +35,8 @@
 <p align="center">
 <img src=".capture/github.gif" width="300px">
 </p>
-<p align="center">
-<img src=".capture/5.PNG" width="25%">
-<img src=".capture/1.PNG" width="29%">
-<img src=".capture/4.PNG" width="22%">
-</p>
-<p align="center"> 
-<img src=".capture/14.PNG" width="20%"> 
-<img src=".capture/15.PNG" width="20%">
-<img src=".capture/16.PNG" width="15%">
-</p>
----
+
+**_ Diseño de una placa de desarrollo para el microcontrolador PIC18F45K50. _** [JAPIC]()
 
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
 
