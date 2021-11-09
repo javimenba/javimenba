@@ -1,7 +1,7 @@
-<h1> Hi I'm Javier <img src="Hi.gif" width="30px"> </h1>
+<h1> Hi I'm Javier <img src=".capture/Hi.gif" width="30px"> </h1>
 
 <p align="center">
-  <img src="111.PNG" width="150%" title="Intro Card" alt="Intro Card">
+  <img src=".capture/111.PNG" width="150%" title="Intro Card" alt="Intro Card">
 </p>
 
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/_javicioso) [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](www.linkedin.com/in/javimenba/) [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/javier_mendoza.fb/)[<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://www.facebook.com/FJ.Mendoza.Bautista/)
@@ -13,7 +13,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.kicad.org/"><img src="iconkicad.png" width="48px"/></a>
+<a src="https://www.kicad.org/"><img src=".capture/iconkicad.png" width="48px"/></a>
 </p>
 
 <h3> Other Languages I know </h3>
@@ -33,17 +33,17 @@
 <h2> Design Circuit </h2>
 
 <p align="center">
-<img src="github.gif" width="300px">
+<img src=".capture/github.gif" width="300px">
 </p>
 <p align="center">
-<img src="5.PNG" width="25%">
-<img src="1.PNG" width="29%">
-<img src="4.PNG" width="22%">
+<img src=".capture/5.PNG" width="25%">
+<img src=".capture/1.PNG" width="29%">
+<img src=".capture/4.PNG" width="22%">
 </p>
 <p align="center"> 
-<img src="14.PNG" width="20%"> 
-<img src="15.PNG" width="20%">
-<img src="16.PNG" width="15%">
+<img src=".capture/14.PNG" width="20%"> 
+<img src=".capture/15.PNG" width="20%">
+<img src=".capture/16.PNG" width="15%">
 </p>
 ---
 
