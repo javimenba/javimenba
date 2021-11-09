@@ -36,7 +36,7 @@
 <img src=".capture/github.gif" width="300px">
 </p>
 
-**_ Diseño de una placa de desarrollo para el microcontrolador PIC18F45K50. _** [JAPIC]()
+**Design of a development board for the PIC18F45K50 microcontroller.** [JAPIC](https://github.com/javimenba/javimenba/blob/main/.JAPIC/Capturas/JAPIC.md)
 
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
 
