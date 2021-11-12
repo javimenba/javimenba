@@ -39,6 +39,11 @@
 
 **Design of a development board for the PIC18F45K50 microcontroller.** [JAPIC](https://github.com/javimenba/javimenba/blob/main/.JAPIC/JAPIC.md)
 
+<h2>Code developed in block diagram</h2>
+<p align="center">
+<img src=".LABVIEW/Imagenes/43.png" width="150%" height="140%" >
+</p>
+
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
