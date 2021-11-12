@@ -14,6 +14,7 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.kicad.org/"><img src=".capture/iconkicad.png" width="48px"/></a>
+<a src="https://www.ni.com/"><img src=".capture/iconLabview.png" width="48px"/></a>
 </p>
 
 <h3> Other Languages I know </h3>
