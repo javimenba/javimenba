@@ -41,7 +41,7 @@
 
 <h2>Code developed in block diagram</h2>
 <p align="center">
-<img src=".LABVIEW/Imagenes/43.png" width="150%" height="140%" >
+<img src=".LABVIEW/Imagenes/42.png" width="150%" height="140%" >
 </p>
 
 [![Javimenba's GitHub stats](https://github-readme-stats.vercel.app/api?username=javimenba)](https://github.com/anuraghazra/github-readme-stats)
